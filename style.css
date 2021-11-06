@@ -1,0 +1,24 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html, body {
+	background: #E2CBC4;
+}
+
+div.wrapper {
+	position: relative;
+	width: 100vw;
+	height: 100vh;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+svg.wordmark {
+	width: 240px;
+}
